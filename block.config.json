@@ -17,5 +17,7 @@
   ],
   "isPublic": false,
   "start": "npx webpack-dev-server",
-  "build": "npx webpack"
+  "build": "npx webpack",
+  "version": "0.0.1",
+  "versionId": "BCvI5T5LP2NiTpJq7kcNG"
 }
