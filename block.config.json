@@ -1,0 +1,21 @@
+{
+  "name": "NewPackage",
+  "type": "package",
+  "blockId": "gvIbXRpX-tACRrD_mtc1W",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_NewPackage"
+  },
+  "parentBlockIDs": [],
+  "isPublic": false,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "newblock": {
+      "directory": "newblock"
+    }
+  }
+}
