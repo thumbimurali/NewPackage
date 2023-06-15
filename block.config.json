@@ -1,0 +1,21 @@
+{
+  "blockId": "IgGEamr1likSDlyYaDQjn",
+  "name": "newblock",
+  "type": "ui-elements",
+  "source": {
+    "https": "https://github.com/thumbimurali/NewPackage.git",
+    "ssh": "git@github.com:thumbimurali/NewPackage.git",
+    "branch": "block_newblock"
+  },
+  "parentBlockIDs": [
+    "gvIbXRpX-tACRrD_mtc1W"
+  ],
+  "repoType": "mono",
+  "language": "js",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": false,
+  "start": "npx webpack-dev-server",
+  "build": "npx webpack"
+}
